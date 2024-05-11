@@ -1,4 +1,6 @@
-## **Seja bem-vindo ao repositório do aplicativo de dicas de turismo para Airbnb!**
+## <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> **Seja bem-vindo ao repositório do aplicativo de dicas de turismo para Airbnb! <img height="20" src="https://seeklogo.com/images/A/airbnb-logo-1D03C48906-seeklogo.com.png">** <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>
+
+<img height="20" width="100%" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true" />
 
 **Introdução:**
 
@@ -13,7 +15,7 @@ Este aplicativo utiliza a tecnologia Gemini e Python para gerar dicas de turismo
 
 **Requisitos:**
 
-* Python 3.6 ou superior
+* Python 3.6 ou superior <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/python.png?raw=true"/></a></code>
 * Google Colab ou ambiente local com Python e Google API Key configurados
 * Biblioteca `google-generativeai` instalada
 
