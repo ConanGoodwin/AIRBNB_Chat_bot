@@ -55,7 +55,7 @@ Este projeto está licenciado sob a licença MIT.
 
 **Links Úteis:**
 
-* [Repositório do projeto](https://github.com/seu-usuario/aplicativo-dicas-turismo-airbnb.git)
+* [Repositório do projeto](https://github.com/ConanGoodwin/AIRBNB_Chat_bot/tree/main)
 * [Documentação da API Gemini](https://docs.gemini.com/)
 * [Comunidade Python](https://www.python.org/community/)
 
