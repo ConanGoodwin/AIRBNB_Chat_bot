@@ -49,9 +49,14 @@ python app.py
 
 Você é bem-vindo para contribuir com o desenvolvimento deste projeto! Se você tiver alguma ideia ou sugestão, por favor, envie um issue ou faça um pull request.
 
-**Licença:**
+---
+**Pontos de melhoria:**
 
-Este projeto está licenciado sob a licença MIT.
+* Deixar a parte de definição da localidade para um usuario administrador em separado, deixando o chat bot exclusivo para cada anfitrião do Airbnb, tirando do usuario a nescessidade de preencher a localidade cada vez que usar o mesmo.
+
+* Usar a propria IA para na hora do prompt livre sobre os topicos, analisar se a pergunta esta dentro do contexto proposto pelo aplicativo, avisando o usuario quando fugir deste escopo para o mesmo decidir se prossegue por este caminho, ou até mesmo implementando maneiras de restringir esta possibilidade de fugir do escopo.
+
+* Filtros avançados: oferecer filtros avançados para permitir que os usuários refinem as sugestões de acordo com suas preferências específicas, como faixa etária, orçamento, e acessibilidade.
 
 **Links Úteis:**
 
