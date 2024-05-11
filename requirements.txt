@@ -1,0 +1,5 @@
+google-generativeai==1.1.0
+google-colab==1.2.1
+IPython==7.31.1
+markdown==3.3.4
+textwrap==0.8.1
