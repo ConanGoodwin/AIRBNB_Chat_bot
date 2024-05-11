@@ -22,7 +22,7 @@ Este aplicativo utiliza a tecnologia Gemini e Python para gerar dicas de turismo
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/aplicativo-dicas-turismo-airbnb.git
+git clone git@github.com:ConanGoodwin/AIRBNB_Chat_bot.git
 ```
 
 2. Instale as dependências:
