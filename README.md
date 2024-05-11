@@ -39,13 +39,13 @@ pip install -r requirements.txt
 python app.py
 ```
 
-**Uso:**
+**<img height="20" src="https://banner2.cleanpng.com/20180131/fee/kisspng-logo-brand-red-font-play-button-png-free-download-5a7245a9823028.9638690515174383775333.jpg"/> Uso:**
 
 1. Siga as instruções na tela para configurar as informações da sua hospedagem e suas preferências de lazer.
 2. O aplicativo irá gerar dicas e roteiros personalizados para você.
 3. Explore as sugestões e personalize o seu roteiro de acordo com seus interesses e tempo disponível.
 
-**Contribuindo:**
+**<img height="20" src="https://e7.pngegg.com/pngimages/613/126/png-clipart-three-circle-and-two-line-logo-computer-icons-share-icon-sharing-symbol-share-miscellaneous-black-and-white.png"/> Contribuindo:**
 
 Você é bem-vindo para contribuir com o desenvolvimento deste projeto! Se você tiver alguma ideia ou sugestão, por favor, envie um issue ou faça um pull request.
 
